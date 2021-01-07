@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="cardview">CardView</string>
+    <string name="view">View</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="name_about">Rakai Wangsasatia</string>
+    <string name="email">rakai77.rr@gmail.com</string>
+    <string name="btn_attribute">Attribute</string>
+</resources>
